@@ -1,0 +1,1 @@
+print("This is a magic 8ball, ask me a question.")
